@@ -61,7 +61,7 @@ body{
 }
 
 #header .site-title .navbar-brand{
-    letter-spacing: 2px;
+    letter-spacing: 3px;
     color: var(--color-white);
 }
 
