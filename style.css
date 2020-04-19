@@ -139,6 +139,19 @@ body{
     background-position: 40% 0;
 }
 
+#myVideo {
+  /* width: 200px; */
+  /* height: 200px; */
+  /* border-radius: 50%; */
+  margin: auto;
+  /* background-size: 200%; */
+  width: 100% !important;
+  height: auto !important;
+  /* background-position: 40% 0; */
+}
+
+
+
 .skill .bars p, .site-content .skill .bars span{
     line-height: 10px;
 }
