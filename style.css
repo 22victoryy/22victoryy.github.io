@@ -106,7 +106,7 @@ body{
     transform: translate(-50%, -50%);
 }
 
-.site-banner .banner-area .author .author-img{
+/* .site-banner .banner-area .author .author-img{
     width: 200px;
     height: 200px;
     border-radius: 50%;
@@ -114,7 +114,7 @@ body{
     background: url(./assets/about.jpg) no-repeat;
     background-size: 200%;
     background-position: 40% 0;
-}
+} */
 
 .skill .bars p, .site-content .skill .bars span{
     line-height: 10px;
