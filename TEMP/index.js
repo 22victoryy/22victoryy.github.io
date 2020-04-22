@@ -26,24 +26,15 @@ function toggle_onclick($win, $navbar, width){
 
 var typed = new Typed('#typed' , {
     strings: [
-        'Web Developer',
-        'Freelancer'
+        'a Software Developer.',
+        'a University Tororonto Student.'
     ],
-    typeSpeed: 50,
-    backSpeed: 50,
+    typeSpeed: 35,
+    backSpeed: 35,
     loop: true
 });
 
-var typed_2 = new Typed('#typed_2' , {
-    strings: [
-        'Web Developer',
-        'Freelancer'
-    ],
-    typeSpeed: 50,
-    backSpeed: 50,
-    loop: true
-});
-
+// no jquery
 document.querySelectorAll('a[href^="#"]').forEach(anchor =>{
     anchor.addEventListener('click', function(e){
         e.preventDefault();
