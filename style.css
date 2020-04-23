@@ -109,9 +109,10 @@ body{
 }
 
  /* introduction header opacity */
-.about {
-  opacity: 0.7;
+.me {
+  opacity: 0.5;
 }
+
 
  /* projects header opacuty */
 .do {
@@ -137,6 +138,7 @@ body{
     background: url(./assets/profile.png) no-repeat;
     background-size: 180%;
     background-position: 45% 0;
+    opacity: 0.8;
 }
 
 .skill .bars p, .site-content .skill .bars span{
