@@ -109,14 +109,14 @@ body{
 }
 
  /* introduction header opacity */
-.about {
+/* .about {
   opacity: 0.5;
-}
+} */
 
  /* projects header opacuty */
-.do {
+/* .do {
   opacity:0.5;
-}
+} */
 
 
 #myVideo {
@@ -131,7 +131,7 @@ body{
     width: 300px;
     height: 300px;
     border-radius: 50%;
-    /* margin: auto; */
+    margin: auto;
     background: url(./assets/profile.png) no-repeat;
     background-size: 180%;
     background-position: 45% 0;
