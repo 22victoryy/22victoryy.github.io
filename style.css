@@ -126,7 +126,7 @@ body{
   min-width: 100%;
   min-height: auto;
 }
-.img-fluid{
+.about .img-fluid{
     position: relative;
     width: 200px;
     height: 200px;
