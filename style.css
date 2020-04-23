@@ -91,7 +91,7 @@ body{
 /* site-main */
 
 .site-banner .banner-area{
-    /* background: url(./assets/) no-repeat; */
+    /* background: url(./assets/pan.jpg) no-repeat; */
     background-size: cover;
     width: 100%;
     height: 100vh;
@@ -117,15 +117,15 @@ body{
   min-height: auto;
 }
 
-/* .site-banner .banner-area .author .author-img{
+.author-img{
     width: 200px;
     height: 200px;
     border-radius: 50%;
     margin: auto;
-    background: url(./assets/about.jpg) no-repeat;
+    background: url(./assets/profile1.png) no-repeat;
     background-size: 200%;
     background-position: 40% 0;
-} */
+}
 
 .skill .bars p, .site-content .skill .bars span{
     line-height: 10px;
