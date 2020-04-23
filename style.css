@@ -108,6 +108,16 @@ body{
     transform: translate(-50%, -50%);
 }
 
+ /* introduction header opacity */
+.about {
+  opacity: 0.5;
+}
+
+ /* projects header opacuty */
+.do {
+  opacity:0.5;
+}
+
 
 #myVideo {
   position: fixed;
