@@ -119,6 +119,14 @@ body{
   opacity: 0.5;
 }
 
+.exp {
+  opacity: 0.5;
+}
+
+.skills {
+  opacity: 0.5;
+}
+
 
 #myVideo {
   position: fixed;
