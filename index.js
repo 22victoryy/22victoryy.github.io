@@ -26,8 +26,8 @@ function toggle_onclick($win, $navbar, width){
 
 var typed = new Typed('#typed' , {
   strings: [
-      'a Software Developer.',
-      'a University Tororonto Student.'
+      'a Software Developer / University of Toronto Student.',
+      // 'a University Tororonto Student.'
   ],
   typeSpeed: 35,
   backSpeed: 35,
