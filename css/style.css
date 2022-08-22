@@ -153,7 +153,7 @@ ul li::before {
     /* position: relative; */
     max-width: 100%;
     max-height: 100%;
-    background: url('./bgsrc/black.jpg') 
+    background: url('../bgsrc/black.jpg') 
 }
 
 
