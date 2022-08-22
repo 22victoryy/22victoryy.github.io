@@ -148,15 +148,6 @@ ul li::before {
 }
 
 
-.div-with-bg
-{
-    /* position: relative; */
-    max-width: 100%;
-    max-height: 100%;
-    background: url('../bgsrc/black.jpg') 
-}
-
-
 .about .img-fluid{
     /* position: relative;
     max-width: 100%;
