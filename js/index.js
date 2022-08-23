@@ -29,7 +29,7 @@ var typed = new Typed('#typed' , {
       'DevOps Engineer and a student of life.',
       
   ],
-  typeSpeed: 25,
+  typeSpeed: 55,
   backSpeed: 15,
   loop: true
 });
